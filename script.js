@@ -8,7 +8,7 @@ function calculateLoan() {
   console.log(monthsToPayValue);
 
   if (isNaN(loanAmountValue) || isNaN(interestRateValue) || isNaN(monthsToPayValue) || monthsToPayValue <= 0) {
-    document.getElementById("payment").innerHTML = "Vänligen ange giltiga värden.";
+    document.getElementById("payment").innerHTML = "Please enter valid values";
     return;
   }
 
