@@ -2,6 +2,10 @@
 
 This is a simple loan calculator built using HTML, CSS, and JavaScript. The calculator allows users to input their loan amount, interest rate, and the number of months to pay. It will then calculate the monthly payment and display the result.
 
+## Live Demo
+
+Check out the live demo at [Loan Calculator Live](https://loan-calculator-rn.netlify.app)
+
 ## How to Use
 
 1. **Clone the repository** or download the files:
