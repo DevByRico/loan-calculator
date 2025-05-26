@@ -36,4 +36,4 @@ Check out the live demo at [Loan Calculator Live](https://loan-calculator-rn.net
 2. The JavaScript function `calculateLoan()` is triggered every time any input field is changed.
 3. It calculates the interest and the monthly payment using the formula:
 
-© 2025 Simple Calculator. All Rights Reserved. | Developed & Designed by Ricardo Nicolau
+© 2025 Simple Calculator. All Rights Reserved. | Developed & Designed by DevByRico
